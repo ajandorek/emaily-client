@@ -1,0 +1,1 @@
+export const FETCU_USER = 'fetch_user';
